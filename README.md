@@ -21,5 +21,16 @@ Exemplo no Windows:
 ```python
 pasta_alvo = r"C:\Users\SeuUsuario\Downloads"
 
-Exemplo no Windows:
+Exemplo no Linux:
+
+```python
 pasta_alvo = "/home/seuusuario/Downloads"
+
+Como executar
+text
+python organizador.py
+Observações
+Recomenda-se fechar programas que possam estar utilizando arquivos do diretório alvo antes da execução, para evitar erros de permissão.
+
+Autora
+Barbara Carvalho
