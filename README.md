@@ -28,3 +28,8 @@ python organizador.py
 
 ## Observações
 Recomenda-se fechar programas que possam estar utilizando arquivos do diretório alvo antes da execução, para evitar erros de permissão.
+
+## Autora
+
+**Barbara Carvalho**  
+[LinkedIn](https://linkedin.com/in/bcarv-eng)
